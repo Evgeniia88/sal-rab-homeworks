@@ -14,7 +14,6 @@ function renderProductsCards(json) {
 	}
 }
         
-        
     // Преобразуйте строку json, переданную как аргумент функции,
     // в объект с помощью функции JSON.parse(json)
     // и запишите в переменную data
